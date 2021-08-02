@@ -1,0 +1,363 @@
+id,location,latitude,longitude,ref_stn,tg_bm,cd_to_bm,mhws,mhwn,mlwn,mlws,msl,hat,lat,data_start,data_end,data_len,owner,gauge_type,pred_link,data_link,int_number
+"1002",Whakaari/White Island,-37.5269,177.1919,Tauranga,,,,,,,,,,,,"0.01",,,,,6417a
+"1003",Whangateau Harbour,-36.3257,174.7742,Auckland,,,"2.7","2.3","0.6","0.2","1.5",,,,,,,,,,6396c
+"1004",Whanganui Inlet,-40.5833,172.5333,Westport,,,"2.9","2.3","0.8","0.0","1.4",,,,,,,,,,"6528"
+"1005",Whangamumu Harbour,-35.2485,174.2958,Marsden Point,,,"2.1","1.9","0.6","0.2","1.2",,,4/11/1972,1/02/1973,"0.05",,,,,6391b
+"1006",Moturoa Island,-35.2108,174.0770,Marsden Point,,,,,,,,,,,,,,,,,
+"1007",Rocky Point,-35.3640,174.3581,Marsden Point,,,"2.2","2.0","0.6","0.3","1.3",,,,,"0.005",,,,,"6392"
+"1008",Waitangi,-35.2722,174.0813,Marsden Point,,,"2.3","2.0","0.6","0.4","1.4",,,,,,,,,,6390b
+"1009",Waipapa Point,-46.6577,168.8446,Bluff,,,"2.7","2.5","0.9","0.6","1.7",,,,,"0.05",,,,,"6502"
+"1010",Waiiti Bay,-35.0074,173.9360,Marsden Point,,,"2.2","2.0","0.7","0.5","1.3",,,,,"0.05",,,,,6390a
+"1011",Easy Harbour,-47.1545,167.5680,Bluff,BE5R,"4.932","2.6","2.2","0.9","0.4","1.6",,,11/10/1998,30/03/1999,"0.55",,,,,6509a
+"1012",Kingfish Lodge,-35.0125,173.7572,Marsden Point,IT_KING 1,"4.268",,,,,,,,20/04/1973,21/05/2014,"0.4",,,,http://www.nrc.govt.nz/Environment/River-and-rainfall-data/River-and-Rainfall-Data/,
+"1013",Port Pegasus,-47.1955,167.6682,Bluff,,,,,,,,,,,,,,,,,
+"1014",Ernest Islands,-46.9615,167.6781,Bluff,,,"2.2","1.8","0.7","0.2","1.2",,,20/10/1997,22/11/1997,"0.1",,,,,"6510"
+"1015",Flour Cask Bay,-47.2772,167.4760,Bluff,BAY5,"5.269","2.8","2.4","1.0","0.5","1.7",,,2/02/1998,4/05/1999,"0.7",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6509"
+"1016",Charles Sound,-45.0792,167.1026,Westport,EC4T,"4.156","3.1","2.6","1.1","0.4","1.8",,,27/11/1997,4/04/1998,"0.4",,,,,6514a
+"1017",Havelock,-41.2751,173.7704,Nelson,BE0K,"4.183","3.2","2.3","1.1","0.4","1.7",,,17/07/1996,14/12/2009,"0.8",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6471"
+"1018",Portage,-41.1976,174.0338,Nelson,EFYR,"3.751","3.2","2.3","1.1","0.3","1.7",,,18/07/1996,26/08/1996,"0.1",,,,,"6470"
+"1019",Deep Cove,-45.4577,167.1509,Westport,EC4Q,"6.403","2.3","1.8","0.8","0.3","1.3",,,15/07/1984,31/08/1997,"0.5",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6513"
+"1020",George Sound,-44.8647,167.3689,Westport,,,"2.5","2.1","0.9","0.3","1.4",,,25/10/1997,22/11/1997,"0.1",,,,,6514b
+"1021",Blanket Bay,-45.3008,166.9785,Westport,EBMA,"2.960","2.3","1.7","0.7","0.1","1.2",,,22/01/1985,23/03/2008,"0.1",,,,,"6514"
+"1022",Whitianga,-36.8326,175.7088,Tauranga,EEBW,"3.412","2.1","1.8","0.6","0.3","1.2",,,1/01/2000,30/06/2018,"9.5",Waikato Regional Council,Radar,https://www.linz.govt.nz/sea/tides/tide-predictions,http://riverlevelsmap.waikatoregion.govt.nz/cgi-bin/hydwebserver.cgi/catchments/details?catchment=17,"6411"
+"1023",Rarotonga,-21.2292,-159.7763,Rarotonga,,,,,,,,,,,,,,,,,
+"1024",Penrhyn Island,-9.0051,-157.9762,Apia,,,,,,,,,,,,,,,,,
+"1025",Funafuti,-8.5211,179.1962,,,,,,,,,,,,,,,,,,
+"1026",Greymouth,-42.4468,171.1997,Westport,,,"3.4","2.6","1.3","0.6","2.0",,,16/02/1993,11/03/1993,"0.1",,,,,"6524"
+"1027",Onehunga,-36.9328,174.7855,,ADLT,"5.593","4.23","3.42","1.36","0.49","2.43","4.55","0.13",1/11/1987,30/06/2018,"17",Ports of Auckland,Ultrasonic,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6375"
+"1028",Dunedin,-45.8787,170.5134,,AFEQ,"3.728","2.22","1.80","0.41","0.05","1.11","2.42","-0.15",10/01/1950,8/01/2018,"101",Port Otago,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6498"
+"1030",Port Chalmers,-45.8147,170.6241,,DUNT,"3.816","2.18","1.77","0.47","0.15","1.13","2.37","-0.06",11/06/1985,8/01/2018,"17",Port Otago,Ultrasonic,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h669a.zip,"6497"
+"1031",Whakatane,-37.9486,177.0034,Tauranga,EM6A,"3.562","2.0","1.7","0.5","0.2","1.1",,,1/01/1995,20/05/2018,"16.2",Bay of Plenty Regional Council,Stilling well,https://www.linz.govt.nz/sea/tides/tide-predictions,,6417b
+"1032",Spit Wharf,-45.7869,170.7183,Port Chalmers,EAYT,"5.386","2.0","1.7","0.4","0.1","1.0",,,20/07/1997,8/01/2018,"17",Port Otago,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6496"
+"1033",Taiaroa Head,-45.7773,170.7279,Port Chalmers,,,,,,,,,,1/11/1991,17/01/1992,"0.25",,,,,
+"1034",Timaru,-44.3941,171.2561,,B2Y9,"5.767","2.51","2.09","0.81","0.50","1.48","2.70","0.27",2/03/1987,30/06/2018,"15",PrimePort,,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h665a.zip,"6492"
+"1035",Motueka,-41.1383,173.0234,Nelson,AC4J,"6.452","4.2","3.4","1.4","0.6","2.4",,,24/04/1986,17/01/2012,"0.2",,,,,6455a
+"1036",Hobbs Bay,-36.6286,174.7916,Auckland,,,,,,,,,,5/04/1985,9/05/1985,"0.1",,,,,
+"1037",Motupipi Inlet,-40.8333,172.8500,Nelson,,,"5.0","4.1","1.5","0.6","2.8",,,,,,,,,,"6454"
+"1038",Nuku Alofa,-21.1393,-175.2049,,,,,,,,,,,20/06/1990,30/09/1995,,,,,,
+"1039",Lifuka Island,-19.8188,-174.3489,Nuku'alofa,,,,,,,,,,14/06/1994,23/05/2012,,,,,,
+"1040",Anita Bay,-44.5803,167.7892,Westport,E8V7,"3.072","2.5","1.9","0.9","0.3","1.4",,,27/02/1996,11/03/2008,"0.2",,,,,"6516"
+"1041",Yankee River,-46.6935,167.8893,Bluff,BAY8,"3.734","2.3","1.9","0.9","0.5","1.4",,,27/10/1981,3/07/1999,"0.1",,,,,6506b
+"1043",Picton,-41.2857,174.0055,,BQFK,"2.771","1.63","1.11","0.57","0.12","0.87","1.76","0.00",1/01/1990,2/05/2011,"4",Marlborough District Council,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6477"
+"1081",Pouto Point,-36.3626,174.1816,Port Taranaki,B5R9,"4.857","3.5","2.8","1.0","0.4","1.9",,,11/03/1981,15/07/2018,"17",Northland Regional Council,Bubbler,https://www.linz.govt.nz/sea/tides/tide-predictions,http://www.nrc.govt.nz/Environment/River-and-rainfall-data/River-and-Rainfall-Data/,"6377"
+"1044",Kawhia,-38.0659,174.8231,Port Taranaki,EG09,"5.534","3.6","2.8","1.0","0.2","2.0",,,29/01/1997,30/06/2018,"9",Waikato Regional Council,Bubbler,https://www.linz.govt.nz/sea/tides/tide-predictions,http://riverlevelsmap.waikatoregion.govt.nz/cgi-bin/hydwebserver.cgi/catchments/details?catchment=17,"6369"
+"1045",Catherine Cove,-40.8580,173.8917,Nelson,EC50,"3.157","2.6","1.9","0.8","0.2","1.4",,,1/03/1997,1/06/1997,"0.3",,,,,"6465"
+"1046",Hicks Bay,-37.5691,178.3015,Tauranga,ACA3,"5.375","2.2","2.0","0.8","0.5","1.3",,,6/02/1986,23/03/1988,"0.1",,,,,"6421"
+"1047",Island Point,-36.2364,174.0953,Port Taranaki,,,"3.6","2.8","1.1","0.3","1.9",,,12/03/1981,10/04/1981,"0.1",,,,,"6376"
+"1048",Te Iro Bay,-41.2352,174.1893,Picton,,,"1.4","0.9","0.4","0.0","0.7",,,27/10/2016,9/02/2017,"0.3",,,,,"6479"
+"1049",Lautoka,-17.6170,177.4505,Suva,,,,,,,,,,,,,,,,,
+"1050",Tikinui,-36.1229,173.9780,Port Taranaki,B5RD,"11.042","3.8","2.9","0.8","0.1","2.0",,,10/02/1981,25/03/1981,"0.1",,,,,6380a
+"1051",Te Whanganui / Port Underwood,-41.3337,174.0981,Lyttelton,,,"1.5","1.1","0.6","0.3","0.9",,,7/02/1983,7/03/1983,"0.1",,,,,"6482"
+"1052",Whakapirau,-36.1558,174.2324,Port Taranaki,,,"3.9","3.0","1.2","0.3","2.1",,,24/02/1981,26/03/1981,"0.1",,,,,6379a
+"1053",Waikawa Harbour,-46.6460,169.1438,Bluff,DJH9,"12.779","2.5","2.2","0.9","0.5","1.5",,,7/12/1982,9/09/2010,"0.3",,,,,"6501"
+"1055",Tryphena,-36.3204,175.4860,Marsden Point,EBJR,"3.379","2.6","2.2","0.9","0.4","1.5",,,7/09/1979,22/02/2009,"0.2",,,,,"6407"
+"1056",Halfmoon Bay - Oban,-46.8970,168.1307,Bluff,ED74,"4.014","2.6","2.2","1.1","0.6","1.6",,,5/06/1982,17/03/2009,"0.4",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6506c
+"1057",Pauanui,-37.0000,175.8667,Tauranga,,,,,,,,,,15/05/1983,23/06/1983,"0.1",,,,,"6413"
+"1058",Riverton/Aparima,-46.3574,168.0136,Bluff,EC48,"4.110","2.9","2.4","1.2","0.7","1.8",,,17/04/1982,22/09/2005,"0.2",,,,,6505a
+"1059",Ruapuke Island,-46.7868,168.5047,Bluff,,,"2.7","2.3","0.9","0.5","1.6",,,3/02/1982,11/05/1982,"0.3",,,,,"6503"
+"1060",Matakana River - Sandspit,-36.3887,174.7301,Auckland,BM 1/75,"3.552","2.7","2.4","0.9","0.5","1.6",,,14/04/1983,24/06/1983,"0.2",,,,,6397a
+"1062",Kaikoura South Basin,-42.4257,173.6812,Lyttelton,Lead Plug #1,"2.717",,,,,,,,26/02/1998,18/04/1998,"0.2",,,,,
+"1063",Tiritiri Matangi Island,-36.6061,174.8882,Auckland,EB2K,"4.000","2.9","2.5","0.8","0.3","1.7",,,3/11/2016,16/02/2017,"0.3",,,,,6398a
+"1064",Papakura Channel - LPG Terminal,-37.0366,174.8281,Onehunga,,,"3.9","3.2","1.1","0.4","2.1",,,,,,,,,,6374a
+"1065",Port Adventure,-47.0787,168.1870,Bluff,BE5P,"13.149","2.9","2.4","1.1","0.6","1.8",,,27/09/1998,23/03/1999,"0.4",,,,,"6508"
+"1066",Small Craft Retreat,-47.2437,167.6448,Bluff,BE5Q,"3.762","3.0","2.5","1.1","0.6","1.8",,,6/10/1998,26/03/1999,"0.4",,,,,6508a
+"1067",Pataua,-35.7139,174.5262,Marsden Point,,,,,,,,,,,,,,,,,
+"1068",Port Craig,-46.2189,167.3632,Bluff,BUFV,"4.509","3.1","2.6","1.3","0.7","1.9",,,2/02/1999,29/06/1999,"0.3",,,,,6510c
+"1069",Kawakaputa Bay,-46.3824,167.8071,Bluff,BGUR,"6.776","2.8","2.3","0.9","0.4","1.6",,,29/04/1981,30/06/1999,"0.3",,,,,6506a
+"1070",Auckland,-36.8431,174.7695,,DD1N,"5.233","3.39","2.85","0.97","0.43","1.90","3.71","0.06",26/10/1903,30/06/2018,"120",Ports of Auckland,Radar,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h070a.zip,"6400"
+"1071",Wellington,-41.2843,174.7798,,ABPB,"3.002","1.84","1.50","0.75","0.48","1.12","1.90","0.41",18/11/1944,30/06/2018,"74",Wellington Regional Council,Float in stilling well,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h071a.zip,"6439"
+"1072",Bluff,-46.5977,168.3454,,ABCC,"8.620","2.83","2.43","1.02","0.56","1.74","3.08","0.30",28/12/1982,30/06/2018,"20",Southport,Milltronic Ultrasonic,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h072a.zip,"6504"
+"1073",Tauranga,-37.6410,176.1811,,AB55,"2.776","1.95","1.67","0.50","0.15","1.10","2.14","-0.06",1/08/1984,30/06/2018,"35",Port of Tauranga,,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h073a.zip,"6415"
+"1074",Westport,-41.7456,171.5947,,DJMC,"7.327","3.25","2.58","0.91","0.22","1.75","3.59","-0.10",4/12/1982,20/07/2018,"19",Westport Harbour,,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h074a.zip,"6526"
+"1075",Whanganui River Entrance,-39.9446,174.9932,Port Taranaki,EM6B,"5.404","3.0","2.2","1.3","0.6","1.7",,,1/08/1984,1/11/1988,"4",,,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h075a.zip,"6447"
+"1076",Port Taranaki,-39.0562,174.0344,,AGMH,"6.721","3.58","2.79","1.11","0.31","1.97","3.91","-0.02",2/12/1955,30/06/2018,"62.5",Port Taranaki,,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h076a.zip,"6366"
+"1077",Nelson,-41.2613,173.2728,,AC4T,"5.772","4.31","3.29","1.44","0.49","2.35","4.68","0.10",1/07/1984,30/06/2018,"23",Port of Nelson,Radar,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h077a.zip,"6458"
+"1078",Gisborne,-38.6737,178.0257,,ACVP,"4.091","2.13","1.75","0.76","0.40","1.26","2.23","0.29",1/10/1984,30/06/2018,"14",Eastland Port,Radar,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h078b.zip,"6425"
+"1079",Marsden Point,-35.8346,174.4902,,DJM9,"4.816","2.77","2.32","0.86","0.43","1.60","3.01","0.13",20/10/1975,30/06/2018,"24",Northport,,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h398a.zip,"6394"
+"1080",Russell,-35.2619,174.1205,Marsden Point,C8ED,"4.148","2.4","2.0","0.8","0.3","1.4",,,13/10/1973,29/05/2013,"0.2",,,,,"6391"
+"1082",Tinopai,-36.2574,174.2523,Port Taranaki,B5RF,"7.969","3.8","2.7","0.9","0.1","1.9",,,20/02/1981,31/07/1993,"0.2",,,,,"6379"
+"1083",Shelly Beach,-36.5703,174.3800,Port Taranaki,EB25,"5.323","3.8","3.1","0.8","0.1","2.0",,,30/05/1970,17/12/1992,"0.1",,,,,"6378"
+"1084",Doves Bay,-35.1952,174.0349,Marsden Point,EVV8,"2.722","2.4","2.2","0.8","0.6","1.5",,,25/03/1992,4/06/1992,"0.2",,,,,6390c
+"1085",Opua,-35.3121,174.1211,Marsden Point,A1E6,"4.115","2.6","2.1","0.8","0.4","1.4",,,2/01/1960,15/07/2018,"2.5",Northland Regional Council,,https://www.linz.govt.nz/sea/tides/tide-predictions,http://www.nrc.govt.nz/Environment/River-and-rainfall-data/River-and-Rainfall-Data/,6391a
+"1086",Kerikeri,-35.2180,173.9634,Marsden Point,,,"2.3","1.9","0.7","0.2","1.3",,,29/07/1981,20/08/1981,"0.05",,,,,6390d
+"1087",Nugget Point,-46.4360,169.7975,Bluff,,,"2.4","2.1","1.0","0.5","1.5",,,9/03/1950,23/03/1950,"0.05",,,,,"6500"
+"1088",Chalky Island - Sealers Bay,-46.0402,166.5273,Westport,EM5E,"7.378","2.5","2.0","0.9","0.3","1.4",,,6/02/1994,10/03/2014,"0.1",,,,,6511b
+"1089",Small Craft Harbour Islands,-45.9704,166.6457,Westport,EM5M,"2.910","2.4","1.9","0.8","0.2","1.3",,,6/02/1994,5/03/2014,"0.1",,,,,6511c
+"1090",Paratutae Island Tsunami,-37.0461,174.5116,Onehunga,BM 1 (1989),"2.982","3.3","2.7","1.0","0.4","1.9",,,28/07/2010,31/12/2016,"6",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,http://apps.linz.govt.nz/ftp/sea_level_data/MNKT/,"6373"
+"1091",Gilbert Islands,-45.6006,166.6769,Westport,EBMH,"5.575","2.3","1.8","0.7","0.2","1.3",,,30/09/1994,4/04/1996,"0.2",,,,,6512b
+"1092",Front Islands,-45.7401,166.7242,Westport,EBMG,"2.322","2.2","1.7","0.6","0.2","1.2",,,1/10/1994,13/11/1994,"0.1",,,,,6512a
+"1093",Nukunonu Island,-9.1677,-171.8058,Apia,,,,,,,,,,18/06/1994,18/07/1994,,,,,,
+"1094",Waitangi,-43.9463,-176.5612,Lyttelton,EHMW,"2.495","0.9","0.6","0.2","0.0","0.4",,,4/10/1993,1/02/2016,"9",Pacific Tsunami Warning Center,,https://www.linz.govt.nz/sea/tides/tide-predictions/waitangi-0,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h079a.zip,"6536"
+"1095",Moutohora Island,-37.8594,176.9857,Tauranga,,,"1.9","1.7","0.4","0.2","1.1",,,27/05/1994,7/04/1995,"0.2",,,,,"6417"
+"1096",Coal Island - Fishing Bay,-46.0983,166.6444,Westport,,,"2.4","1.8","0.8","0.4","1.4",,,4/03/1994,24/03/1994,"0.07",,,,,"6511"
+"1097",Napier,-39.4755,176.9200,,B3XN,"4.837","1.89","1.48","0.42","0.06","0.96","1.99","-0.03",1/01/1989,30/06/2018,"29",Port of Napier,Ultrasonic,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h668a.zip,"6432"
+"1098",Omaio Bay - Motunui Island,-37.7882,177.6521,Tauranga,,,"1.9","1.6","0.4","0.1","1.0",,,7/03/1995,5/04/1995,"0.1",,,,,"6419"
+"1099",Many Islands,-45.7686,166.5192,Westport,EC4N,"3.019","2.6","2.2","1.1","0.5","1.6",,,14/10/1994,26/03/1995,"0.1",,,,,"6512"
+"1100",Tolaga Bay - Cooks Cove,-38.3786,178.3378,Tauranga,BM CC 1/96,"4.070","1.7","1.6","0.4","0.3","1.0",,,20/02/1987,25/03/1996,"0.2",,,,,"6424"
+"1101",Tutukaka Harbour,-35.6105,174.5258,Marsden Point,EVVK,"4.325","2.3","1.9","0.8","0.3","1.4",,,20/08/1995,6/10/2006,"0.1",,,,,"6393"
+"1102",Port Ohope Wharf,-37.9840,177.1082,Tauranga,EM68,"3.999","1.9","1.6","0.4","0.0","1.0",,,25/06/1998,10/07/2018,"16.5",Bay of Plenty Regional Council,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6418"
+"1103",Rakitu Island (Arid Island),-36.1185,175.4923,Marsden Point,,,,,,,,,,,,"0.02",,,,,
+"1104",Opotiki Wharf,-38.0014,177.2819,Tauranga,,,"1.8","1.5","0.4","0.1","0.9",,,1/08/1990,10/05/2018,"15.3",Bay of Plenty Regional Council,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,,6418a
+"1105",Elaine Bay,-41.0549,173.7733,Nelson,EFYN,"3.229","2.7","2.0","1.0","0.3","1.5",,,13/09/1996,31/05/1997,"0.3",,,,,"6469"
+"1106",Kaikoura Tsunami,-42.4126,173.7027,Lyttelton,,,"2.0","1.6","0.5","0.2","1.1",,,1/01/1995,31/12/2016,"5",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,http://apps.linz.govt.nz/ftp/sea_level_data/KAIT/,"6487"
+"1107",Lyttelton,-43.6056,172.7219,,B40V,"4.508","2.60","2.10","0.72","0.26","1.42","2.72","0.15",30/06/1903,30/06/2018,"116.5",Lyttelton Port Christchurch,Ultrasonic,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h667a.zip,"6490"
+"1108",Whangarei,-35.7574,174.3500,Marsden Point,A2Q9,"5.182","3.0","2.6","1.0","0.5","1.8",,,1/04/1987,31/01/2007,"7",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6395"
+"1110",Snares Islands/Tini Heke - North East Island,-48.0228,166.6090,Bluff,,"3.187","1.9","1.6","0.7","0.3","1.2",,,9/01/1999,15/02/1999,"0.1",,,,,6510b
+"1111",Solander Island (Hautere),-46.5749,166.9024,Bluff,BEEB,"7.097","2.3","2.0","0.9","0.4","1.4",,,11/01/1999,25/02/1999,"0.1",,,,,6510a
+"1112",Houhora Harbour Entrance,-34.8238,173.1557,Marsden Point,IT_DML_2,"3.880","2.6","2.2","0.9","0.5","1.5",,,29/03/1969,15/05/1969,"0.1",,,,,6387a
+"1113",Princes Island,-34.1774,172.0553,Port Taranaki,,,,,,,,,,,,,,,,,
+"1114",Great Island - North West Bay,-34.1508,172.1414,Port Taranaki,,,"2.4","2.0","0.7","0.4","1.4",,,2/05/2000,17/06/2000,"0.1",,,,,"6385"
+"1116",Ahipara Bay,-35.1752,173.1171,Port Taranaki,,,"3.6","2.9","1.1","0.4","2.0",,,,,"0.01",,,,,"6384"
+"1117",Tikao Bay,-43.7976,172.9179,Lyttelton,EC4Y,"5.610","2.6","2.2","0.9","0.6","1.5",,,3/03/1953,14/02/2008,"0.05",,,,,"6491"
+"1119",Astrolabe Roadstead,-40.9667,173.0500,Nelson,,,"4.8","3.8","1.2","0.2","2.5",,,,,,,,,,"6455"
+"1120",Dairy Factory Wharf,-35.0379,173.2566,Marsden Point,,,"2.3","1.8","0.6","0.1","1.2",,,3/12/1979,18/12/1979,"0.05",,,,,6388b
+"1121",Awarua Point,-44.2594,168.0523,Westport,,,,,,,,,,,,,,,,,
+"1123",Tapuaetahi Bay (Boat Harbour),-36.9317,175.8535,Tauranga,EVVD,"3.040","1.9","1.6","0.5","0.2","1.0",,,15/11/1978,16/12/1978,"0.1",,,,,6411a
+"1124",Mansion House Bay - Bon Accord Harbour,-36.4297,174.8187,Auckland,,,"2.9","2.4","0.9","0.4","1.7",,,22/03/1975,22/04/1975,"0.1",,,,,"6397"
+"1125",Bruce Bay,-43.5833,169.5833,Westport,,,"2.3","1.8","0.6","0.2","1.2",,,,,,,,,,"6520"
+"1127",Cape Reinga,-34.4214,172.6810,Port Taranaki,,,,,,,,,,,,,,,,,
+"1128",Colac Bay/Oraka,-46.3765,167.8844,Bluff,,,"2.3","1.8","0.9","0.4","1.3",,,17/01/1951,31/01/1951,"0.05",,,,,"6506"
+"1129",Collingwood,-40.6769,172.6815,Nelson,,,"4.7","3.8","1.4","0.5","2.6",,,,,,,,,,"6453"
+"1130",Coromandel Harbour - Whanganui Island,-36.7879,175.4473,Auckland,DLKH,"5.270","2.9","2.5","0.7","0.2","1.6",,,7/10/1976,13/08/2003,"0.2",,,,,"6405"
+"1131",Croisilles Harbour - Kotiro Point,-41.0907,173.6493,Nelson,,,"3.6","3.0","1.2","0.7","2.1",,,3/06/1987,28/06/1987,"0.05",,,,,"6460"
+"1132",Cuvier Island,-36.4402,175.7825,Auckland,,,,,,,,,,,,,,,,,
+"1133",East Cape,-37.6806,178.5445,Tauranga,,,"2.1","1.9","0.7","0.5","1.3",,,,,"0.05",,,,,"6422"
+"1134",Elmslie Bay,-40.9265,173.8440,Nelson,E0JW,"0.899","3.1","2.2","1.4","0.6","1.8",,,11/05/1987,27/04/2006,"0.3",,,,,"6466"
+"1135",Waimango Point,-36.9892,175.2847,Auckland,,,,,,,,,,,,,,,,,
+"1136",Greville Harbour,-40.8587,173.8096,Nelson,,,"3.8","2.9","1.5","0.6","2.2",,,24/01/1957,22/02/1957,"0.1",,,,,"6462"
+"1137",Haast River Entrance,-43.8545,169.0534,Westport,,,"2.3","1.8","0.6","0.2","1.2",,,,,,,,,,"6519"
+"1138",Rawene,-35.3920,173.5052,Port Taranaki,EBWC,"4.284","3.5","2.7","1.0","0.1","1.9",,,18/11/1965,17/11/2015,"0.2",,,,,6381a
+"1139",Hokitika River Bar,-42.7242,170.9612,Westport,,,"2.3","1.8","0.6","0.2","1.2",,,,,,,,,,"6523"
+"1140",Huruhi Harbour,-36.6017,175.7738,Tauranga,EG02,"2.734","2.5","1.9","0.8","0.2","1.3",,,29/09/2009,15/03/2011,"1",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6410"
+"1141",Invercargill,-46.4187,168.3363,Bluff,,,,,,,,,,1/01/2004,1/01/2005,,,,,,
+"1142",Jackson Bay,-43.9732,168.6161,Westport,,,"2.3","1.8","0.6","0.1","1.2",,,1/01/1999,1/01/2010,"11","Bureau of Meteorology (Australia), NIWA",Seaframe acoustic,https://www.linz.govt.nz/sea/tides/tide-predictions,ftp://ftp.soest.hawaii.edu/uhslc/rqds/pacific/hourly/h403b.zip,"6518"
+"1143",Cornwallis,-37.0117,174.6074,Onehunga,,,"3.5","2.9","1.1","0.5","2.0",,,,,"0.005",,,,,"6374"
+"1144",Karamurama Island,-36.9248,175.1592,Auckland,,,,,,,,,,,,,,,,,
+"1146",Kohukohu,-35.3590,173.5467,Port Taranaki,B1F5,"4.772","3.6","2.8","1.0","0.1","1.9",,,4/09/2015,17/11/2015,"0.2",,,,,"6382"
+"1147",Man o'War Bay,-36.7851,175.1576,Auckland,EB2C,"5.133","3.2","2.6","0.9","0.3","1.8",,,4/11/1968,7/03/2017,"0.4",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6401"
+"1148",Manawatu River Entrance,-40.4724,175.2376,Port Taranaki,,,"2.4","1.8","0.9","0.2","1.3",,,,,,,,,,"6445"
+"1149",Mangonui,-34.9884,173.5356,Marsden Point,A068,"4.415","2.6","2.2","0.9","0.5","1.6",,,20/11/1973,25/12/1973,"0.1",,,,,"6389"
+"1150",Matiatia bay,-36.7800,174.9915,Auckland,EB2B,"5.151","3.1","2.6","0.9","0.3","1.7",,,11/09/1968,7/03/2017,"0.4",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6401a
+"1151",Milford (Hauraki Gulf),-36.7644,174.7674,Auckland,,,,,,,,,,16/06/1981,20/07/1981,"0.1",,,,,
+"1152",Roberton Island,-35.2345,174.1612,Marsden Point,,,,,,,,,,,,,,,,,
+"1154",Mokau River,-38.6998,174.6274,Port Taranaki,,,,,,,,,,,,,,,,,
+"1155",Current Basin,-40.9714,173.8052,Nelson,,,"3.9","3.1","1.4","0.6","2.3",,,,,"0.005",,,,,6466a
+"1156",Burgess Island (Pokohinu),-35.9074,175.1111,Marsden Point,,"4.678","2.5","2.1","0.9","0.4","1.5",,,8/02/2009,24/03/2009,"0.1",,,,,"6396"
+"1157",Motuihe Island,-36.8063,174.9347,Auckland,,,,,,,,,,,,"0.002",,,,,
+"1158",Moturiki Island,-37.6317,176.1850,Tauranga,AB4Q,,,,,,,,,1/01/2002,31/12/2006,"4",NIWA,Bubbler with stilling well,,,
+"1160",Murrays Bay,-36.7319,174.7549,Auckland,,,"3.1","2.6","0.9","0.3","1.7",,,24/11/1975,16/02/2017,"0.3",,,,,6399a
+"1161",Nagle Cove,-36.1431,175.3196,Marsden Point,EBMY,"3.305","2.6","2.2","1.0","0.4","1.5",,,7/12/2008,22/02/2009,"0.2",,,,,"6406"
+"1162",North Cape (Otou) Tsunami,-34.4156,173.0488,Marsden Point,,,"2.3","1.9","0.7","0.2","1.3",,,24/12/2008,31/12/2016,"8",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,http://apps.linz.govt.nz/ftp/sea_level_data/NCPT/,6386a
+"1163",Te Karaka,-35.4192,173.4244,Port Taranaki,EVXC,"5.314","3.2","2.5","0.9","0.1","1.7",,,3/09/2015,17/11/2015,"0.25",,,,,6381b
+"1164",Oamaru,-45.1056,170.9750,Port Chalmers,CQGA,"5.001","2.3","1.9","0.8","0.5","1.4",,,23/06/2000,17/07/2001,"1",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6494"
+"1166",Okarito,-43.2211,170.1690,Westport,,,"2.3","1.8","0.6","0.2","1.2",,,,,,,,,,"6521"
+"1167",Okuru River,-43.9075,168.9048,Westport,,,,,,,,,,,,,,,,,
+"1168",Omaha Cove,-36.2883,174.8075,Auckland,EM66,"4.250","2.6","2.2","0.7","0.3","1.4",,,29/11/1985,21/10/2015,"0.7",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,
+"1169",Onekaka,-40.7449,172.7150,Nelson,,,,,,,,,,,,,,,,,
+"1171",Opononi,-35.5039,173.3917,Port Taranaki,EVXA,"4.403","3.0","2.3","0.8","0.1","1.6",,,19/10/1965,17/11/2015,"0.2",,,,,"6381"
+"1172",Opunake Bay,-39.4606,173.8559,Port Taranaki,,,"3.3","2.7","1.0","0.3","1.8",,,,,,,,,,"6451"
+"1173",Pakawau,-40.5948,172.6900,Nelson,,,,,,,,,,,,,,,,,
+"1174",Ngatehe Point,-34.5163,172.9230,Marsden Point,,,"2.5","2.1","0.7","0.4","1.4",,,,,"0.005",,,,,"6387"
+"1175",Patea,-39.7741,174.4878,Port Taranaki,,,"2.5","1.9","0.8","0.2","1.3",,,,,,,,,,"6449"
+"1176",Golden Bay,-46.9034,168.1214,Bluff,ED70,"3.635","2.7","2.2","1.1","0.6","1.7",,,4/02/1951,17/03/2009,"0.4",,,,,"6507"
+"1177",Karehana Bay - Plimmerton Boating Club,-41.0745,174.8546,Port Taranaki,BB3U,"2.994","1.7","1.1","0.9","0.3","1.0",,,6/03/2003,6/05/2009,"0.25",,,,,6443a
+"1178",Port Jackson,-36.4839,175.3357,Marsden Point,EEF3,"3.367","2.6","2.1","0.8","0.2","1.4",,,3/11/1964,21/07/2009,"0.1",,,,,"6408"
+"1180",Raglan,-37.7942,174.8795,Port Taranaki,AGE6,"5.060","3.3","2.6","0.9","0.1","1.8",,,28/01/2005,1/07/2017,"4",Waikato Regional Council,Radar,https://www.linz.govt.nz/sea/tides/tide-predictions,http://riverlevelsmap.waikatoregion.govt.nz/cgi-bin/hydwebserver.cgi/catchments/details?catchment=17,"6371"
+"1182",Rangaunu Bay,-34.8106,173.2963,Marsden Point,,,,,,,,,,3/09/2015,29/10/2015,"0.15",,,,,
+"1183",Rock Cod Bay,-40.9294,173.8363,Nelson,BM,"2.703",,,,,,,,27/01/2006,27/04/2006,"0.3",,,,,
+"1184",Ruawai Wharf,-36.1385,174.0206,Port Taranaki,,,,,,,,,,,,,,,,,
+"1185",Slipper island (Whakahau),-37.0481,175.9364,Tauranga,,,"2.0","1.8","0.5","0.4","1.2",,,10/10/1970,12/02/1971,"0.1",,,,,6412a
+"1187",Stephens Island (Takapourewa),-40.6740,174.0031,Nelson,,,"2.8","2.3","1.1","0.6","1.7",,,,,"0.005",,,,,"6464"
+"1188",Stirling Point,-46.6116,168.3597,Bluff,,,,,,,,,,,,,,,,,
+"1189",Tarakohe,-40.8227,172.8975,Nelson,C7L6,"6.359","4.0","3.0","1.3","0.3","2.1",,,1/07/1984,19/12/2017,"7.7",Tasman District Council,Bubbler,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6452"
+"1190",New River Entrance,-46.5134,168.2374,Bluff,,,"2.8","2.5","0.7","0.4","1.6",,,,,,,,,,"6505"
+"1192",Antipodes Island,-49.6667,178.8000,Bluff,,,"1.8",,,,"1.1",,,,,"0.001",,,,,"6535"
+"1193",Bounty Islands,-47.7523,179.0269,Bluff,,,,,,,,,,,,,,,,,
+"1194",Campbell Island/Motu Ihupuku - Perserverance Harbour,-52.5506,169.1525,Bluff,,,"1.7","1.4","0.9","0.6","1.2",,,10/02/1985,12/02/1985,"0.01",,,,,"6532"
+"1195",Ranui Cove,-50.5400,166.2717,Bluff,EU6P,"1.697",,,,,,,,19/01/2015,28/03/2015,"0.002",,,,,
+"1196",Suva,-18.1248,178.4501,Suva,,,,,,,,,,,,,,,,,
+"1198",Fishing Rock Tsunami,-29.2511,-177.9039,Marsden Point,,,"1.7","1.5","0.6","0.4","1.1",,,15/02/1992,31/12/2016,"5",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions/fishing-rock,http://apps.linz.govt.nz/ftp/sea_level_data/RFRT/,"6537"
+"1199",Beach Cove,-45.5937,166.7654,Westport,,,,,,,,,,,,"0.001",,,,,
+"1201",East Bay,-41.2407,174.1270,Picton,,,"1.5","1.0","0.5","0.0","0.8",,,22/10/2016,9/02/2017,"0.3",,,,,"6476"
+"1202",Kohaihai Bluff,-41.0963,172.1005,Westport,,,,,,,,,,,,,,,,,
+"1203",Paturau,-40.6417,172.4280,Westport,,,,,,,,,,,,,,,,,
+"1205",Westhaven Inlet,-36.8358,174.7484,Auckland,,,,,,,,,,,,,,,,,
+"1206",Mapua,-41.2565,173.1022,Nelson,B9GP,"5.451","4.1","3.3","1.6","0.6","2.4",,,8/05/1986,1/03/1994,"7",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6455b
+"1207",Long Island,-41.1193,174.2791,Picton,,,"1.6","1.1","0.6","0.1","0.8",,,17/10/2016,9/02/2017,"0.3",,,,,"6474"
+"1208",Kowhatuhuri,-35.1271,174.0908,Marsden Point,,,,,,,,,,,,,,,,,
+"1209",Lords River,-47.1112,168.1228,Bluff,,,,,,,,,,9/11/1998,18/11/1998,,,,,,
+"1210",Dargaville,-35.9410,173.8723,Port Taranaki,BVFK,"4.938",,,,,,,,1/08/1986,30/06/2017,"9",Northland Regional Council,,,http://www.nrc.govt.nz/Environment/River-and-rainfall-data/River-and-Rainfall-Data/,6380b
+"1211",Malolo Island,-17.7492,177.1672,,,,,,,,,,,,,,,,,,
+"1212",Kuata Island,-17.3667,177.1333,,,,,,,,,,,,,,,,,,
+"1213",Akitio River Entrance,-40.5987,176.4234,Napier,,,,,,,,,,,,,,,,,"6435"
+"1214",Starbuck Island,-5.6436,-155.8858,,,,,,,,,,,,,,,,,,
+"1215",Malden Island,-4.0123,-154.9178,,,,,,,,,,,,,,,,,,
+"1216",Caroline Island,-9.9138,-150.2038,,,,,,,,,,,,,,,,,,
+"1217",Oteranga Bay,-41.2958,174.6253,Wellington,,,"0.9","0.7","0.5","0.3","0.6",,,,,"0.2",,,,,"6441"
+"1219",Wairoa River Mouth,-39.0605,177.4162,Napier,,,"1.6","1.5","0.3","0.2","0.9",,,,,,,,,,"6430"
+"1220",Ruahine Road,-46.3450,167.7365,Bluff,,,,,,,,,,,,,,,,,
+"1221",Tai Levu,-17.8054,178.5179,Suva,,,,,,,,,,,,,,,,,
+"1222",Malau,-16.3597,179.3660,,,,,,,,,,,,,,,,,,
+"1224",Ravi Ravi Point,-16.4659,178.9518,,,,,,,,,,,,,,,,,,
+"1225",Neiafu Harbour,-18.6477,-173.9837,,,,,,,,,,,20/09/2008,14/10/2008,,,,,,
+"1226",Apia,-13.8507,-171.7514,Apia,,,,,,,,,,20/04/2005,16/05/2005,,,,,,
+"1228",Avatiu Harbour,-21.2233,-159.7972,Rarotonga,,,,,,,,,,10/07/1990,26/07/1990,,,,,,
+"1229",Aitutaki,-18.8580,-159.7853,Avatiu,,,,,,,,,,,,,,,,,
+"1230",Salelologa,-13.7381,-172.2217,Apia,,,,,,,,,,1/11/2008,30/11/2008,,,,,,
+"1231",Asau Harbour,-13.5191,-172.6294,Apia,,,,,,,,,,,,,,,,,
+"1232",Mulifanua,-13.8475,-172.0448,Apia,,,,,,,,,,1/11/2008,30/11/2008,,,,,,
+"1233",Thames - Rocky Point,-37.1024,175.5152,Auckland,AF7G,"5.260","3.8","3.2","1.1","0.5","2.2",,,25/05/1990,30/06/2018,"17",Waikato Regional Council,Ultrasonic,https://www.linz.govt.nz/sea/tides/tide-predictions,http://riverlevelsmap.waikatoregion.govt.nz/cgi-bin/hydwebserver.cgi/catchments/details?catchment=17,"6404"
+"1234",Waikato River Entrance,-37.3857,174.7319,Port Taranaki,,,"3.7","3.0","1.2","0.5","2.1",,,,,,,,,,"6372"
+"1235",Chatham Point,-45.5390,166.8850,Westport,,,,,,,,,,,,"0.001",,,,,
+"1236",Fishermans Rock,-41.0672,174.6015,Picton,,,"1.5","1.0","0.5","0.0","0.7",,,,,,,,,,"6480"
+"1237",Wilson Bay,-41.0743,173.9068,Nelson,,,,,,,,,,,,,,,,,
+"1238",Haurere Point,-37.9585,177.4435,Tauranga,,,,,,,,,,,,,,,,,6418b
+"1239",Helensville,-36.6666,174.4478,Port Taranaki,,,,,,,,,,,,,,,,,6378a
+"1240",Kahikatea Bay,-41.2394,174.1127,Picton,,,,,,,,,,,,,,,,,
+"1241",Waiorua Bay,-40.8329,174.9436,Port Taranaki,,,"1.9","1.2","0.7","0.1","0.9",,,23/07/1997,12/02/2012,"8",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6444a
+"1242",Karamea River Entrance,-41.2500,172.1000,Westport,,,,,,,,,,,,,,,,,"6527"
+"1243",Karori Rock Light,-41.3435,174.6515,Wellington,,,,,,,,,,,,,,,,,"6440"
+"1244",Katikati Entrance - Kauri Point,-37.5172,175.9757,Tauranga,,,,,,,,,,,,,,,,,6414a
+"1246",Lucky Bay,-41.2619,174.2795,Lyttelton,,,"1.3","1.2","0.5","0.4","0.9",,,1/10/1956,30/10/1956,"0.1",,,,,"6481"
+"1247",Mahurangi Harbour,-36.4853,174.7233,Auckland,,,,,,,,,,9/02/1982,24/02/1982,"0.05",,,,,"6398"
+"1248",Makara Beach,-41.2188,174.7141,Port Taranaki,,,"1.3","0.9","0.7","0.3","0.8",,,,,"0.05",,,,,"6442"
+"1249",Maketu Estuary Entrance,-37.7561,176.4549,Tauranga,,,,,,,,,,,,,,,,,"6416"
+"1250",Mangawhai Heads,-36.0824,174.5987,Auckland,,,,,,,,,,,,,,,,,6396a
+"1252",Maraetai,-36.8792,175.0425,Auckland,,,,,,,,,,,,,,,,,"6402"
+"1256",Muriwai Beach,-36.8315,174.4246,Onehunga,,,,,,,,,,,,,,,,,6375e
+"1257",Okiwa Bay,-41.2741,173.9196,Picton,,,"1.5","1.0","0.5","0.0","0.7",,,"1942",,"0.1",,,,,"6478"
+"1258",Okukari Bay,-41.2016,174.3113,Picton,EB3A,"2.551","1.2","0.8","0.5","0.1","0.7",,,15/04/1977,10/06/2006,"0.2",,,,,6479a
+"1260",Omaia island,-34.9977,173.2662,Marsden Point,,,"2.3","2.0","0.5","0.2","1.3",,,,,"0.001",,,,,6388a
+"1261",Omokoroa,-37.6601,176.0450,Tauranga,,,"1.9","1.6","0.3","0.0","1.0",,,1/01/2000,20/04/2018,"6.2",Bay of Plenty Regional Council,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6414b
+"1262",Onetaunga Bay,-36.8232,174.6965,Auckland,,,"3.4","2.9","0.9","0.5","2.0",,,,,,,,,,6399c
+"1264",Otaki River Entrance,-40.7608,175.1001,Port Taranaki,,,,,,,,,,,,,,,,,6444b
+"1265",Papamoa Beach,-37.7136,176.3370,Tauranga,,,,,,,,,,,,,,,,,6415a
+"1266",Paraparaumu Beach,-40.8917,174.9794,Port Taranaki,,,,,,,,,,,,,,,,,6443b
+"1267",Pelorus Sound Entrance,-40.9167,173.9833,Nelson,,,"2.8","2.2","1.1","0.5","1.6",,,,,,,,,,"6467"
+"1268",Piha Beach,-36.9543,174.4663,Onehunga,,,,,,,,,,,,,,,,,6375b
+"1269",Porangahau River Entrance,-40.2635,176.6921,Napier,,,,,,,,,,,,,,,,,6433a
+"1270",Portland Island,-39.2834,177.8670,Napier,,,,,,,,,,,,,,,,,"6428"
+"1272",Punawaiti,-40.1068,176.8714,Napier,,,,,,,,,,,,,,,,,"6433"
+"1274",Rakaia River Mouth,-43.8910,172.2402,Lyttelton,,,,,,,,,,,,,,,,,6491a
+"1275",Rangitata River Entrance,-44.1850,171.5130,Timaru,,,,,,,,,,,,,,,,,6491c
+"1276",Scheigis Rock,-34.8902,173.2949,Marsden Point,,,,,,,,,,28/11/1979,18/12/1979,,,,,,"6388"
+"1277",Tairua,-37.0029,175.8628,Tauranga,unknown BM,"4.319","1.9","1.6","0.4","0.1","1.0",,,14/04/1983,11/12/1983,"0.1",,,,,"6412"
+"1279",Te Kopuru,-36.0253,173.9202,Port Taranaki,,,"3.4","3.0",,,,,,,,,,,,,"6380"
+"1280",Te Kaha,-37.7406,177.6743,Tauranga,,,,,,,,,,,,,,,,,6419a
+"1281",Town Wharf,-37.6833,176.1712,Tauranga,,,,,,,,,,,,,,,,,6414c
+"1282",Waihi Beach,-37.3964,175.9387,Tauranga,,,,,,,,,,,,,,,,,6413b
+"1283",Waikanae River Entrance,-40.8728,175.0089,Port Taranaki,,,"1.9","1.2","0.6","0.0","0.9",,,21/07/1992,1/09/1992,"0.1",,,,,"6444"
+"1284",Waikokopu,-39.0721,177.8291,Napier,,,"1.6","1.5","0.4","0.2","0.9",,,,,,,,,,"6429"
+"1285",Waipiro Bay,-38.0382,178.3428,Tauranga,,,"2.0","1.8","0.6","0.5","1.2",,,,,"0.1",,,,,"6423"
+"1287",Waitara River Entrance,-38.9878,174.2282,Port Taranaki,,,"3.5","2.9","1.1","0.4","2.0",,,,,,,,,,"6367"
+"1288",Waitarere Beach,-40.5469,175.1954,Port Taranaki,,,,,,,,,,,,,,,,,6444c
+"1289",Waiuku,-37.2330,174.7255,Onehunga,,,,,,,,,,,,,,,,,6375a
+"1290",Whakatahuri,-41.0152,174.0404,Nelson,,,"2.7","2.1","1.1","0.5","1.6",,,1/11/1988,23/11/1988,"0.1",,,,,"6468"
+"1291",Weiti River Entrance,-36.6402,174.7268,Auckland,EB2G,"3.970","3.0","2.5","0.8","0.2","1.7",,,28/01/1976,28/02/1976,"0.1",,,,,"6399"
+"1295",Whangamata,-37.1999,175.8785,Tauranga,,,,,,,,,,,,,,,,,6413a
+"1296",Oke Island,-45.6373,166.8538,Westport,,,,,,,,,,,,"0.001",,,,,
+"1297",Unahi Jetty,-35.0033,173.2545,Marsden Point,,,"2.3","1.9","0.6","0.2","1.3",,,21/02/1977,7/03/1977,"0.05",,,,,6388c
+"1298",Ashburton River Entrance,-44.0515,171.8078,Timaru,,,,,,,,,,,,,,,,,6491b
+"1299",Aotea Harbour,-38.0064,174.8237,Port Taranaki,,,"3.7","2.9","1.2","0.4","2.1",,,,,,,,,,"6370"
+"1300",Bare Island (Motu o Kura),-39.8345,177.0288,Napier,,,,,,,,,,,,,,,,,6432b
+"1302",Te Henga (Bethells Beach),-36.8961,174.4439,Onehunga,,,,,,,,,,,,,,,,,6375d
+"1303",Bowentown - Katikati Entrance,-37.4689,175.9858,Tauranga,,,,,,,,,,,,,,,,,"6414"
+"1304",Bligh Sound,-44.8086,167.5323,Westport,,,"2.1","1.8","0.6","0.3","1.2",,,,,,,,,,"6515"
+"1306",Cape Campbell,-41.7332,174.2552,Lyttelton,,,"1.7","1.6","0.5","0.4","1.1",,,20/04/1950,4/05/1950,"0.05",,,,,"6485"
+"1307",Cape Kidnappers,-39.6429,177.0851,Napier,,,,,,,,,,,,,,,,,6432a
+"1308",Cape Palliser (Matakitakiakupe),-41.6131,175.2872,Wellington,,,"1.5","1.4","0.5","0.3","0.9",,,,,,,,,,"6438"
+"1309",Cape Maria van Dieman,-34.4775,172.6503,Port Taranaki,,,"2.4","2.1","0.6","0.3","1.4",,,,,,,,,,"6386"
+"1311",Cape Turnagain,-40.4914,176.6159,Napier,,,,,,,,,,,,,,,,,"6434"
+"1312",Auckland Island - Carnley Harbour,-50.8319,166.0517,Bluff,EU70,"6.361","1.9","1.4","0.7","0.2","1.1",,,15/02/1985,22/03/2015,"0.01",,,,,"6534"
+"1313",Castlepoint Tsunami,-40.8991,176.2317,Napier,ABL7,,"1.6","1.3","0.3","0.0","0.8",,,31/10/1985,31/12/2016,"7",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,http://apps.linz.govt.nz/ftp/sea_level_data/CPIT/,"6436"
+"1315",Clarence,-42.1735,173.9297,Lyttelton,,,,,,,,,,,,,,,,,
+"1316",Blackhead Point,-40.2169,176.7900,Napier,,,,,,,,,,,,,,,,,
+"1317",Okahu Bay,-36.8491,174.8110,Auckland,,,,,,,,,,,,,,,,,
+"1318",Honeycomb Point,-41.3589,175.8120,Wellington,,,,,,,,,,,,,,,,,
+"1319",Macdonell Island,-45.2712,167.1391,Westport,,,,,,,,,,,,"0.001",,,,,
+"1320",Wiwiki Point,-35.1541,174.1245,Marsden Point,,,,,,,,,,,,,,,,,
+"1322",Lyall Bay,-41.3352,174.8036,Wellington,,,,,,,,,,,,,,,,,
+"1323",Porirua Harbour - Mana Crusing Club,-41.1001,174.8678,Port Taranaki,A2GC,"5.688","1.7","1.2","0.9","0.4","1.0",,,19/03/1965,30/06/2018,"9",Wellington Regional Council,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6443"
+"1324",Nydia Bay,-41.1681,173.7777,Nelson,,,,,,,,,,,,,,,,,
+"1325",Tokomaru Bay,-38.1320,178.3181,Tauranga,,,"1.9","1.8","0.6","0.5",,,,,,,,,,,6423a
+"1326",Waihau Bay,-37.6162,177.9076,Tauranga,,,,,,,,,,9/11/1978,10/12/1978,"0.1",,,,,
+"1327",Galoa Island (Fiji),-16.6161,178.6790,,,,,,,,,,,,,,,,,,
+"1329",Cape Roberts,-77.0339,163.1912,,,,,,,,,,,20/11/1990,9/11/2015,,LINZ,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/ROBT/,
+"1330",Fresh Water Basin,-44.6682,167.9265,Westport,EB2M,"3.967","2.4","2.0","0.8","0.3","1.4",,,17/05/1996,30/06/2018,"4",Southland Regional Council,,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6517"
+"1331",Deas Cove,-45.1966,166.9719,Westport,,,,,,,,,,,,,,,,,
+"1333",Scott Base,-77.8501,166.7690,,,,,,,,,,,9/03/1957,18/07/2013,"12","Antarctica New Zealand, LINZ",Bubbler,https://www.linz.govt.nz/sea/tides/tide-predictions/scott-base,http://apps.linz.govt.nz/ftp/sea_level_data/SCOT/,"2018"
+"1335",Possession Island,-71.8922,171.1729,,,,,,,,,,,,,"0.002",,,,,
+"1336",Jane Coves,-46.0194,166.7384,Westport,EM5C,"4.361","2.5","2.0","0.8","0.3","1.4",,,8/12/2013,7/03/2014,"0.3",,,,,6511d
+"1337",Reef Point,-46.0318,166.6014,Westport,,,,,,,,,,,,,,,,,
+"1338",Edwardson Sound,-45.8702,166.6980,Westport,,,,,,,,,,,,,,,,,
+"1339",Manihiki,-10.4275,-160.9903,,,,,,,,,,,,,,,,,,
+"1340",Pukapuka Island,-10.8500,-165.8389,,,,,,,,,,,,,,,,,,
+"1341",Suwarrow Island,-13.2693,-163.1114,,,,,,,,,,,,,,,,,,
+"1342",Waihou River,-37.1905,175.5632,Auckland,,,,,,,,,,,,,,,,,
+"1343",Sewer Beacon,-37.1369,175.5263,Auckland,,,,,,,,,,,,"0.15",,,,,
+"1344",Shortland Wharf,-37.1461,175.5435,Auckland,,,,,,,,,,,,,,,,,
+"1345",Christmas Island,1.8721,-157.4278,,,,,,,,,,,,,,,,,,
+"1346",Hanfield Inlet,-50.7366,166.1480,,,,,,,,,,,6/02/1991,23/02/1991,"0.05",,,,,
+"1347",Patuki,-40.7370,173.9595,Nelson,,,,,,,,,,,,"0.04",,,,,
+"1348",Kupe Bay,-40.8894,173.7973,Nelson,,,,,,,,,,,,"0.001",,,,,
+"1349",Kaiteriteri,-41.0472,173.0225,Nelson,EC52,"3.210","3.9","2.9","1.3","0.3","2.1",,,16/06/2000,29/01/2018,"11.5",Tasman District Council,Bubbler,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6456"
+"1350",Pukenui Wharf,-34.8139,173.1191,Marsden Point,EAUA,"13.399","2.7","2.2","0.9","0.5","1.6",,,8/04/2015,26/05/2015,"0.15",,,,,6387b
+"1351",Rangitira Point,-40.8530,174.9350,Port Taranaki,,,,,,,,,,1/01/2006,31/12/2006,"1",,,,,
+"1352",Owenga Tsunami,-44.0240,-176.3675,Lyttelton,EBRK,"3.590","1.3","1.0","0.3","0.0","0.7",,,17/12/2007,31/12/2016,"9",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions/owenga,http://apps.linz.govt.nz/ftp/sea_level_data/CHIT/,6536b
+"1353",Dog Island,-46.6526,168.4112,Bluff,DFH7,"6.988","2.8","2.3","1.0","0.5","1.7",,,1/04/2001,7/11/2003,"1.9",NIWA,Bubbler,,,6503a
+"1354",Green Island,-45.9521,170.3866,Bluff,,,"2.0","1.7","0.4","0.1","1.0",,,4/12/2002,4/07/2014,"11","Otago Regional Council, NIWA",Bubbler,,,"6499"
+"1355",Welcombe Bay Tsunami,-46.0831,166.5882,Westport,EEF6,"3.773","2.3","1.9","0.7","0.2","1.3",,,31/05/2002,31/12/2016,"3",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,http://apps.linz.govt.nz/ftp/sea_level_data/PUYT/,6511a
+"1356",Akaroa,-43.8087,172.9590,Lyttelton,C82L,"3.470","2.7","2.1","0.9","0.4","1.5",,,24/10/2007,4/04/2008,"0.5",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6490a
+"1357",Lottin Point Tsunami,-37.5500,178.1591,Tauranga,,,"1.9","1.6","0.5","0.2","1.0",,,11/10/2008,31/12/2016,"4",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,http://apps.linz.govt.nz/ftp/sea_level_data/LOTT/,"6420"
+"1358",Gisborne Tsunami,-38.6757,178.0223,Gisborne,,,,,,,,,,11/03/2008,31/12/2016,"9",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/GIST/,
+"1359",Tauranga Tsunami,-37.6410,176.1812,Tauranga,,,,,,,,,,7/07/2008,31/12/2016,"8",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/TAUT/,
+"1360",Napier Tsunami,-39.4755,176.9200,Napier,,,,,,,,,,20/09/2007,31/12/2016,"9",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/NAPT/,
+"1361",Wellington Tsunami,-41.2843,174.7798,Wellington,,,,,,,,,,23/03/2007,31/12/2016,"9",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/WLGT/,
+"1362",Port Chalmers Tsunami,-45.8141,170.6293,Port Chalmers,,,,,,,,,,1/03/2010,31/12/2016,"7",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/OTAT/,
+"1363",Auckland Tsunami,-36.8312,174.7862,Auckland,,,"3.2","2.7","0.9","0.4","1.8",,,26/03/2009,31/12/2016,"8",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/AUCT/,6399b
+"1364",Porirua,-41.1246,174.8392,Port Taranaki,,,,,,,,,,24/02/2009,6/05/2009,"0.25",,,,,
+"1365",Pauatahanui,-41.1052,174.9002,Port Taranaki,,,,,,,,,,23/02/2009,6/05/2009,"0.25",,,,,
+"1366",Hunga,-18.6830,-174.1198,Apia,,,,,,,,,,24/09/2008,4/11/2008,"0.1",,,,,
+"1367",Boat Cove Tsunami,-29.2803,-177.8946,Marsden Point,,,"1.7","1.5","0.7","0.4","1.1",,,29/05/2009,31/12/2016,"7",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/RBCT/,6537a
+"1368",Portland Wharf,-35.8021,174.3468,Marsden Point,unknown BM,"3.849","3.1","2.6","1.1","0.4","1.8",,,18/03/2009,14/10/2009,"0.7",,,,,6395a
+"1369",Limestone Wharf,-35.7865,174.3626,Marsden Point,RSJ in conc,"4.748",,,,,,,,8/01/2009,25/03/2009,"0.2",,,,,
+"1370",Sumner,-43.5710,172.7714,Lyttelton,,,"2.4","1.9","0.6","0.2","1.3",,,3/06/1994,19/04/2007,"13","NIWA, Environment Canterbury",Bubbler,https://www.linz.govt.nz/sea/tides/tide-predictions,,"6488"
+"1371",Korotiti Bay Tsunami,-36.1895,175.4890,Marsden Point,,,"2.3","1.9","0.7","0.3","1.3",,,31/07/2010,31/12/2016,"7",LINZ/GeoNet,Pressure transducer,https://www.linz.govt.nz/sea/tides/tide-predictions,http://apps.linz.govt.nz/ftp/sea_level_data/GBIT/,6407a
+"1372",Anawhata,-36.9295,174.4518,Onehunga,,,"3.2","2.5","1.0","0.3","1.7",,,19/11/1998,31/12/2006,"8",,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6375c
+"1373",Town Basin,-35.7238,174.3265,Marsden Point,A2P8,"4.994",,,,,,,,22/10/2008,15/07/2018,"10",,,,http://www.nrc.govt.nz/Environment/River-and-rainfall-data/River-and-Rainfall-Data/,
+"1374",Kaingaroa,-43.7319,-176.2675,Lyttelton,EHN6,"3.267","1.4","1.1","0.3","0.0","0.7",,,2/05/2002,5/06/2013,"8",,,https://www.linz.govt.nz/sea/tides/tide-predictions/kaingaroa,,6536a
+"1375",Sumner Tsunami,-43.5710,172.7714,Lyttelton,,,,,,,,,,11/08/2010,31/12/2016,"6",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/SUMT/,
+"1376",Ben Gunn Wharf,-35.0063,173.2597,Marsden Point,A051,"2.741","2.4","2.0","0.5","0.1","1.3",,,30/07/2004,15/07/2018,"10",Northland Regional Council,,https://www.linz.govt.nz/sea/tides/tide-predictions,http://www.nrc.govt.nz/Environment/River-and-rainfall-data/River-and-Rainfall-Data/,6388d
+"1377",Port Charles,-36.5245,175.4655,Marsden Point,EM6D,,"2.3","1.9","0.6","0.1","1.2",,,23/09/2009,17/05/2011,"0.2",,,,,"6409"
+"1378",Mangaia,-21.9352,-157.9166,,,,,,,,,,,16/12/2010,12/02/2011,"0.2",,,,,
+"1396",Manu Bay,-37.8219,174.8145,Port Taranaki,,,,,,,,,,11/01/2012,30/06/2018,"6.5",Bay of Plenty Regional Council,,,http://riverlevelsmap.waikatoregion.govt.nz/cgi-bin/hydwebserver.cgi/catchments/details?catchment=17,
+"1397",Kaituna River,-37.7550,176.4140,Tauranga,,,"1.5","1.3","0.3","0.1","0.8",,,1/01/2000,20/05/2018,"18.4",Bay of Plenty Regional Council,,https://www.linz.govt.nz/sea/tides/tide-predictions,,6415b
+"1398",Rangitaiki River,-37.9172,176.8741,Tauranga,,,"1.5","1.2","0.3","0.2","0.7",,,1/01/2000,6/07/2018,"18.4",Bay of Plenty Regional Council,,,,6416a
+"1399",Sulphur Point,-37.6597,176.1753,Tauranga,,,,,,,,,,1/01/2012,31/03/2013,"1.2",Port of Tauranga,,,,
+"1400",Flower Pot,-44.2398,-176.2388,Lyttelton,EHN9,"3.291",,,,,,,,2/12/2010,13/04/2011,"0.3",LINZ,,,,
+"1401",Whangaroa,-35.0494,173.7436,Marsden Point,EB65,"4.108","2.5","2.1","0.8","0.3","1.4",,,21/08/2008,16/07/2018,"9.7",Northland Regional Council,,,,"6390"
+"1402",Stephenson Island,-34.9644,173.7792,Marsden Point,,,,,,,,,,11/02/2014,22/05/2014,"0.3",LINZ,,,,
+"1403",Western Harbour,-50.8289,165.9264,Bluff,EU71,"4.905",,,,,,,,17/01/2015,21/03/2015,"0.2",LINZ,,,,
+"1404",Waterfall Inlet,-50.8186,166.2042,Bluff,EU6J,"2.239",,,,,,,,18/01/2015,22/03/2015,"0.2",LINZ,,,,
+"1405",Smith Harbour,-50.7064,166.1308,Bluff,AI01,"2.082",,,,,,,,18/01/2015,25/03/2015,"0.2",LINZ,,,,
+"1406",Haskell Bay,-50.6017,166.2114,Bluff,EVGA,"2.750",,,,,,,,25/01/2015,25/03/2015,"0.2",LINZ,,,,
+"1407",Charleston Tsunami,-41.9083,171.4333,Westport,,,"3.3","2.7","1.1","0.4","1.9",,,11/09/1997,31/12/2016,"7",LINZ/GeoNet,Pressure transducer,,http://apps.linz.govt.nz/ftp/sea_level_data/CHST/,"6525"
+"1408",Omapere,-35.5344,173.3858,Port Taranaki,EVXB,"5.466","2.9","2.3","0.8","0.1","1.6",,,8/09/2015,17/11/2015,"0.2",LINZ,,,,6380c
+"1410",Ngaiotonga Bay,-35.3107,174.3207,Marsden Point,ERYX,"4.709","2.5","2.0","0.8","0.3","1.4",,,9/10/2015,22/11/2015,"0.15",LINZ,,,,6391c
+"1411",Tamateatai Point,-35.3443,174.3283,Marsden Point,ERYR,"3.114","2.5","2.1","0.8","0.4","1.4",,,9/10/2015,22/11/2015,"0.15",LINZ,,,,6391d
+"1412",Taiwawe Bay,-35.4348,174.3812,Marsden Point,ERYQ,"4.589","2.5","2.0","0.8","0.3","1.4",,,9/10/2015,22/11/2015,"0.15",LINZ,,,,6392a
+"1413",Te Puna,-35.1852,174.0583,Marsden Point,,,,,,,,,,4/04/2013,13/04/2013,"0.005",LINZ,,,,
+"1414",Doubtless Bay,-34.9251,173.4430,Marsden Point,,,,,,,,,,3/09/2015,29/10/2015,"0.15",LINZ,,,,
+"1415",Farmer Point,-34.8045,173.1732,Marsden Point,,,,,,,,,,3/08/2015,29/10/2015,"0.3",LINZ,,,,
+"1416",Maitai Bay,-34.8225,173.4043,Marsden Point,,,"2.5","2.0","0.9","0.3","1.4",,,4/08/2015,28/10/2015,"0.3",LINZ,,,,6388e
+"1417",Takerau Bay,-34.9280,173.5560,Marsden Point,,,,,,,,,,2/08/2015,27/10/2015,"0.3",LINZ,,,,
+"1418",Te Hapua Wharf,-34.5165,172.9230,Marsden Point,,,"2.6","2.2","0.9","0.4","1.5",,,4/02/2016,10/03/2016,"0.1",LINZ,,,,6386b
+"1419",Akatakere Point,-34.5347,172.9441,Marsden Point,,,,,,,,,,3/02/2016,10/03/2016,"0.1",LINZ,,,,
+"1420",Fakaofo,-9.3803,-171.2188,,,,,,,,,,,20/07/2011,27/07/2011,"0.005",,,,,
+"1421",Anakakata Bay,-41.0224,174.2782,Picton,,,,,,,,,,23/10/2016,,"0.7",LINZ,,,,
+"1422",Dryden Bay,-41.1756,174.1860,Picton,,,,,,,,,,22/10/2016,,"0.7",LINZ,,,,
+"1423",Pine Harbour,-36.8887,174.9864,Auckland,,,,,,,,,,8/11/2016,7/03/2017,"0.4",LINZ,,,,
+"1424",Sandspit Passage,-36.8970,175.1832,Auckland,,,,,,,,,,7/11/2016,7/03/2017,"0.4",LINZ,,,,
+"1425",Rakino Island,-36.7262,174.9526,Auckland,,,,,,,,,,10/11/2016,6/03/2017,"0.3",LINZ,,,,
+"1426",McKenzie Bay,-36.7792,174.8281,Auckland,,,,,,,,,,2/11/2016,16/02/2017,"0.3",LINZ,,,,
+"1001",Niue Island,-19.0544,-169.8672,Nuie,,,,,,,,,,9/07/1994,14/05/2005,,,,,,
